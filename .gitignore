@@ -1,0 +1,9 @@
+.env
+migrations
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+ca.crt
+new.txt
+.DS_Store
